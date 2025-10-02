@@ -1,4 +1,4 @@
-# Bike-Store-Inc---Base-de-dados-Teste
+# Bike-Store-Inc---Base-de-dados
 This is a challenge by Coodesh
 
 # Descrição
